@@ -1,0 +1,17 @@
+*{
+    color: black;
+}
+
+body, html, section{
+    background-color: #2e1a46;
+}
+
+img{
+    max-width: 100px;
+}
+
+.container{
+    background-color: #e65525;
+    border-radius: 10px;
+}
+
